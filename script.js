@@ -33,18 +33,18 @@ const albums = {
 
 const cases = {
   yz: {
-    title: "Y&Z Grow, Sales + PM + Web Deployment",
+    title: "Y&Z Grow, Owner / Operations Manager",
     summary:
-      "A 2025 business execution story that connects customer-facing sales, project coordination, and digital presence work.",
+      "An ongoing small-business operations role combining customer communication, order records, inventory coordination, and administrative follow-through.",
     points: [
-      "Handled offline sales and customer-facing communication.",
-      "Supported project management follow-up and coordination.",
-      "Helped deploy or maintain website presence for growth work.",
-      "Final public copy should be tightened after confirming dates, title, platform, and measurable outcomes."
+      "Manage customer-facing communication and day-to-day operational priorities.",
+      "Maintain order information and coordinate operational follow-ups.",
+      "Use digital systems and organized records to support operations.",
+      "Owner / Operations Manager title confirmed by site owner; specific dates and achievements should be checked before publishing."
     ]
   },
   msu: {
-    title: "Michigan State University, Class of 2024",
+    title: "Michigan State University",
     summary:
       "Education is used as the credibility anchor for the site, connecting the visual graduation image with the professional story.",
     points: [
